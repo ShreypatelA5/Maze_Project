@@ -1,6 +1,4 @@
-# do not modify this file.  This is almost the same maze object as A1.  Only difference is
-# that it loads the maze from a file with different data format and has a function
-# to print a maze (as represented by a list of walls)
+
 
 import json
 
